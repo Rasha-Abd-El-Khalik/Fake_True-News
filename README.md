@@ -5,7 +5,6 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 [![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ---
 
