@@ -72,5 +72,5 @@ Train the model yourself (see train_word2vec.ipynb)
 Or
 [Download pre-trained Word2Vec model](https://drive.google.com/file/d/1pZrxH1gXuTYoNm08FdwpNibh98HqMxdG/view?usp=sharing)
 
-Dataset
+ ## Dataset
 [Fake News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
