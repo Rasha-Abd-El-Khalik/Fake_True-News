@@ -44,20 +44,6 @@ It combines text preprocessing, Word2Vec embeddings, and multiple classifiers to
 
 ---
 
-## 📂 Project Structure
-
-.
-├── Fake True News/ # Main project folder
-│ ├── detection_test_ml.ipynb # Notebook for testing fake/true detection
-│ ├── detection_train_ml.ipynb # Notebook for training models
-│ ├── test_set.rar # Compressed test dataset
-│ ├── xgboost_model.rar # Saved XGBoost model
-│ ├── random_forest_model.rar # Saved Random Forest model
-│ └── logistic_regression_model.rar # Saved Logistic Regression model
-└── README.md # Project documentation
-
-Predict Fake vs True
-
 Run the notebook or load the trained model in Python to classify new articles.
 
 ## ⚠️ Important Note
